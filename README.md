@@ -1,5 +1,8 @@
 # Image_to_painting_with_cycleGANs:
 ![alt text](https://github.com/AhmedaliElgabry/Image_to_painting_with_cycleGANs/blob/master/image_to_painting.png)<br/>
+<p align="center">
+  LaTeX template for your outstanding job application
+</p>
 <br/>
 <br/>
 **•The model is trained from scractch in amazon web services.<br/>
