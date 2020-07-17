@@ -1,7 +1,7 @@
 # Image_to_painting_with_cycleGANs:
 ![alt text](https://github.com/AhmedaliElgabry/Image_to_painting_with_cycleGANs/blob/master/image_to_painting.png)<br/>
 <p align="center">
-  LaTeX template for your outstanding job application
+  one sample from model output "converting image to paintning using cycleGAN"
 </p>
 <br/>
 <br/>
