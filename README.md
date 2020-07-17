@@ -5,7 +5,7 @@
 </p>
 <br/>
 <br/>
-**•The model is trained from scractch in amazon web services.<br/>
+•The model is trained from scractch in amazon web services.<br/>
 •The model trained in monet2photo Dataset.<br/>
 •The model is implemented using tensorflow2 and Keras.<br/>
 •have used ResNet generator and up convolutional and down convolutional layer,used relu and leaky relu activation and Adam optimizer.**<br/>
